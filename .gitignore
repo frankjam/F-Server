@@ -1,0 +1,5 @@
+.vscode
+*.exe
+response.txt
+www/sub
+www/*.php
