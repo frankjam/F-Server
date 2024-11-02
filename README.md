@@ -7,7 +7,9 @@ To run the project from source code
  - ``` make build ```
  
  - ``` make run ``` default port is 12 but you can change the port on run: <br> 
- ``` ./httpd.exe <port of choice>  ```
+ ``` ./httpd.exe <port of choice>  ``` <BR>
+ <br>
+ NB: Have your web content in the ```www``` folder
 
-
-
+## Features 
+    - handle files .php, .html
